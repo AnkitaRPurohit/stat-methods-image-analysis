@@ -1,6 +1,5 @@
 # stat-methods-image-analysis
 
-# Supporting Files for the Article
 This repository contains the analysis code and tables associated with the manuscript:
 
 **Understanding Data in Image Pre-Processing and Denoising: A Statistical Approach**
