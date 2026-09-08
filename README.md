@@ -1,7 +1,7 @@
 # stat-methods-image-analysis
-# Statistical Analysis Supporting [Article Title]
 
-This repository contains the analysis code, tables, and supporting material associated with the manuscript:
+# Supporting Files for the Article
+This repository contains the analysis code and tables associated with the manuscript:
 
 **Understanding Data in Image Pre-Processing and Denoising: A Statistical Approach**
 
@@ -16,9 +16,7 @@ The purpose of this repository is to support transparency and reproducibility of
 
 The repository contains:
 - the Python analysis script,
-- the table(s) used in the study,
-- supporting results,
-- and an openly licensed image used in the manuscript or supplementary material.
+- the table(s) used in the study
 
 ## Repository Structure
 
